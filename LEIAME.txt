@@ -1,0 +1,2 @@
+Baixe os recursos da bibioteca grafica pelo arquivo:
+raylib_installer_v4.2.mingw.exe
